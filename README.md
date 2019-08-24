@@ -1,4 +1,5 @@
-# ETL Project *by Julio Padilla and Gilberto Morales*
+# ETL Project 
+### *by Julio Padilla and Gilberto Morales*
 
 ## New York State Datasets Merge
 ![png](Images/1.png)
@@ -25,6 +26,11 @@
 
 ![png](Images/5.png)
 
-## Conclution
+## Conclutions
 
+### Correlation Matrix
 ![png](Images/6.png)
+
+### Corporate Tax Credits vs Employment and Wages
+![png](Images/7.png)
+
