@@ -26,7 +26,7 @@
 
 ![png](Images/5.png)
 
-## Conclutions
+## Conclusions
 
 ### Correlation Matrix
 ![png](Images/6.png)
