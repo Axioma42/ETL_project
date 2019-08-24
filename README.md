@@ -26,11 +26,11 @@
 
 ![png](Images/5.png)
 
-## Conclusions
+## Conclusions:
 
 ### Correlation Matrix
 ![png](Images/6.png)
 
-### Corporate Tax Credits vs Employment and Wages
+### Corporate Tax Credits vs Employment
 ![png](Images/7.png)
 
